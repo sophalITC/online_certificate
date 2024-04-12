@@ -1,5 +1,5 @@
 # Online Certificates Collection
-## Curated by sophalITC
+## Curated by CHAN Sophal
 
 This repository is a curated collection of my online certificates, showcasing my continuous learning efforts in various domains of computer science, including Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), Computer Vision, Language Learning Models (LLM), Generative AI, and core programming languages such as C/C++, Python, and Java, along with Data Structures and Algorithms.
 
